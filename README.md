@@ -1,2 +1,2 @@
 # DS
-Files for Distributed Systems module  
+Files for Distributed Systems lecture
